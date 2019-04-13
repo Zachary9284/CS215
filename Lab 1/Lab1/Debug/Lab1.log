@@ -1,0 +1,4 @@
+﻿  Source1.cpp
+c:\uky\spring 2019\cs 215\labs\lab 1\lab1\source1.cpp(44): warning C4101: 'Decimal': unreferenced local variable
+c:\uky\spring 2019\cs 215\labs\lab 1\lab1\source1.cpp(97): error C2440: 'return': cannot convert from 'int' to 'fraction'
+  c:\uky\spring 2019\cs 215\labs\lab 1\lab1\source1.cpp(97): note: No constructor could take the source type, or constructor overload resolution was ambiguous
